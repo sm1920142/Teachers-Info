@@ -6,7 +6,7 @@
 <body background="WEBPAGE DESKTOP4.png">
 <br>
 <p align="right">
-<a href="SJS-LS PT.html"><button>Home</button></a>
+<a href="https://sjs-ls-pt.herokuapp.com/"><button>Home</button></a>
 </a>
 &nbsp;
 &nbsp;
@@ -156,7 +156,6 @@
 &nbsp;
 &nbsp;
 <font face="Tahoma" font size="3" font color="white">CLE Teacher</font>
-<br>
 <br>
 <br>
 <br>
